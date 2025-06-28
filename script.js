@@ -34,5 +34,4 @@ backBtn.addEventListener("click", () => {
   }
 });
 
-// Awal load
 scrollToIndex(currentIndex);
